@@ -73,7 +73,7 @@ section{
 .btn:hover{
     letter-spacing: .2rem;
 }
-
+/*start of header section*/
 .header{
     background: var(--bg);
     display: flex;
@@ -232,7 +232,9 @@ section{
     padding:1rem 0;
     color:#eee;
 }
+/*end of header section*/
 
+/*about section start*/
 .about .row{
     display: flex;
     align-items: center;
@@ -264,6 +266,9 @@ section{
     line-height: 1.8;
 }
 
+/*end of about section */
+
+/*begining of menu saction*/
 .menu .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -305,6 +310,10 @@ section{
 .menu .box-container .box:hover > *{
     color:var(--black);
 }
+/*end of menu section*/
+
+
+/*start of product section*/
 
 .products .box-container{
     display: grid;
@@ -365,6 +374,9 @@ section{
     font-size: 1.5rem;
 }
 
+/*end of product section*/
+
+/*start  of review section*/
 .review .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -402,6 +414,9 @@ section{
     color:var(--main-color);
 }
 
+/*review section end*/
+
+/*contact section starts*/
 .contact .row{
     display: flex;
     background:var(--black);
@@ -450,7 +465,9 @@ section{
     text-transform: none;
     background:none;
 }
+/*contant setion end*/
 
+/*blog section starts*/
 .blogs .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
@@ -505,6 +522,9 @@ section{
     padding:1rem 0;
 }
 
+/*blogs section end*/
+
+/*footer section start*/
 .footer{
     background:var(--black);
     text-align: center;
@@ -560,7 +580,7 @@ section{
 }
 
 
-
+/*footer section end*/
 
 
 
