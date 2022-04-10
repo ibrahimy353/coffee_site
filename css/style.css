@@ -442,6 +442,11 @@ section{
     color:#fff;
 }
 
+.contact .row form h2{
+    text-transform: lowercase;
+    color: yellow;
+
+}
 .contact .row form .inputBox{
     display: flex;
     align-items: center;
