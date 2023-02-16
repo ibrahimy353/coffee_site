@@ -26,14 +26,14 @@ The homepage showcases a few featured coffee blends, along with their descriptio
 
 ## Installation
 
-* To install the project start by forking the repo to your 
+* To install the project start by forking the repo to your github page.
 * Open the coding environment of your choice vscode etc.
 
 
     
 ## Run Locally
 
-Clone the project
+Clone the project through IDE terminal or CMD
 
 ```bash
   git clone https://github.com/ibrahimy353/trekmovie.git
@@ -65,5 +65,4 @@ To deploy this static project
 ```bash
   Use gh-pages in your github settings
 ```
-
 
