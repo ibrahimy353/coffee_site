@@ -1,4 +1,3 @@
-![dopio](https://user-images.githubusercontent.com/85551204/219458607-9baeadb8-eb20-41f0-90e4-4b543859b4ac.JPG)
-![Web capture_1-9-2022_18227_ibrahimy353 github io](https://user-images.githubusercontent.com/85551204/187947568-e199cefd-bd80-46ae-9827-23ea35ffad68.jpeg)
-# coffee_site
+![dopio](https://user-images.githubusercontent.com/85551204/219462407-3212b7b2-dda8-4aee-ba0c-2a4eaa1883d1.JPG)
+
 Representation of a coffee shop website.
