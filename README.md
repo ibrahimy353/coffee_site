@@ -1,4 +1,5 @@
 
+
 # Dopio Coffee Website ☕
 Dopio coffee site is a simple yet effective e-commerce website that offers customers an easy way to view and purchase different types of coffee. The website features a clean and modern design, with a prominent banner image and a simple navigation menu.
 
@@ -9,15 +10,6 @@ The homepage showcases a few featured coffee blends, along with their descriptio
 ## Screenshots
 
 ![App Screenshot](https://user-images.githubusercontent.com/85551204/219462407-3212b7b2-dda8-4aee-ba0c-2a4eaa1883d1.JPG)
-
-
-## Badges
-
-
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-
-
 
 ## Authors
 
@@ -31,7 +23,7 @@ The homepage showcases a few featured coffee blends, along with their descriptio
 
 
     
-## Run Locally
+#### Run Locally
 
 Clone the project through IDE terminal or CMD
 
@@ -45,24 +37,32 @@ Go to the project directory
   cd my-project
 ```
 
-Install dependencies
+since the project has dependencies you can start by
 
 ```bash
-  npm install
+  Editing the project to your liking and open with live server.
 ```
 
-Start the server
-
-```bash
-  npm run start
-```
 
 
 ## Deployment
 
-To deploy this static project
+To deploy this static project and show it to others 
 
 ```bash
-  Use gh-pages in your github settings
+  Use gh-pages in your github settings or copy the project in your vercel or netlify free hosting account.
 ```
+
+
+## Badges
+
+
+
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
+
+
+## Contributing
+
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
